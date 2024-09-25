@@ -10,41 +10,24 @@
  }
 
 class Solution {
-    public int[] Left(int[] heights) {   // for Largest element Left
+
+        public int[] Left(int[] heights) {  // For largest element on the left
         int n = heights.length;
-        int pseudo = -1;
         int[] res1 = new int[n];
         Stack<Pair> st = new Stack<>();
+        int pseudo = -1;
 
         for (int i = 0; i < n; i++) {
-            if(st.size() == 0)
-            {
-                res1[i] = pseudo;
+            while (!st.isEmpty() && st.peek().heights >= heights[i]) {
+                st.pop();
             }
-            else if(st.size() > 0 && st.peek().heights < heights[i])
-            {
-                res1[i] = st.peek().index;
-            }
-            else
-            {
-                while(st.size()>0 && st.peek().heights >= heights[i])
-                {
-                    st.pop();
-                }
-                if(st.size() == 0)
-                {
-                    res1[i] = pseudo;
-                }
-                else
-                {
-                    res1[i] = st.peek().index;
-                }
-            }
-            
+
+            res1[i] = st.isEmpty() ? pseudo : st.peek().index;
             st.push(new Pair(heights[i], i));
         }
         return res1;
     }
+    
 
     public int[] Right(int[] heights) {    // for Largest element Right
         int n = heights.length;
