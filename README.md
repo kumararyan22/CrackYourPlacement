@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -47,12 +48,14 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
