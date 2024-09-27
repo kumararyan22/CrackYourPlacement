@@ -13,10 +13,11 @@ class Solution {
             int bitB = (n2 >= 0) ? b.charAt(n2) - '0': 0;
 
             int sum = bitA + bitB + carry;
-
+            
+            carry = sum / 2;
             res.append(sum % 2);
 
-            carry = sum / 2;
+            
 
             n1--;
             n2--;
