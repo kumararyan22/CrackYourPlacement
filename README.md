@@ -44,6 +44,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +67,7 @@
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0289-game-of-life) |
