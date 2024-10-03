@@ -29,6 +29,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
@@ -52,6 +53,7 @@
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -174,4 +177,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
