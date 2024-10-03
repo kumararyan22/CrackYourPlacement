@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
