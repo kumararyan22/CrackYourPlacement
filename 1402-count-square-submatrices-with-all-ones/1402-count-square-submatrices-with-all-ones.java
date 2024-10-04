@@ -27,7 +27,7 @@ class Solution {
          int m = matrix.length;
          int n = matrix[0].length;
 
-        if (i < 0 || i>= m || j < 0 || j>= n || matrix[i][j] == 0) {
+        if (i>= m || j>= n || matrix[i][j] == 0) {
             return 0;
         }
 
