@@ -1,6 +1,6 @@
 class Solution {
 
-    int[][] dp = new int[301][301];  // Declare dp array for memoization
+    int[][] dp = new int[300][300];  // Declare dp array for memoization
 
     public int countSquares(int[][] matrix) {
         int m = matrix.length;
