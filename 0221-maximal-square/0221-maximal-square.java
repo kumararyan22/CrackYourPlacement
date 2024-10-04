@@ -7,10 +7,10 @@ class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
 
-        if(m == 0)
-        {
-            return 0;
-        }
+        // if(m == 0)
+        // {
+        //     return 0;
+        // }
         
         int max = 0;
         int currmax = 0;
