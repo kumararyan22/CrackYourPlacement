@@ -1,0 +1,47 @@
+class Solution {
+
+    int[][] dp;  // Declare dp array for memoization
+
+    public int countSquares(int[][] matrix) {
+        int m = matrix.length;
+        int n = matrix[0].length;
+
+        dp = new int[m][n];  // Initialize dp array based on matrix dimensions        
+
+        int ans = 0;
+
+        // Compute the result by checking all elements of the matrix
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                ans += countSquaresHelper(matrix, i, j);
+            }
+        }
+
+        return ans;
+    }
+
+    // Helper function for memoization
+    private int countSquaresHelper(int[][] matrix, int i, int j) {
+         
+         int m = matrix.length;
+         int n = matrix[0].length;
+
+        if (i < 0 || i>= m || j < 0 || j>= n || matrix[i][j] == 0) {
+            return 0;
+        }
+
+        // If the value is already calculated, return the stored result
+        if (dp[i][j] != 0) {
+            return dp[i][j];
+        }
+
+        int ans = 0;
+        int l = countSquaresHelper(matrix , i , j+1);
+        int r = countSquaresHelper(matrix , i+1 , j);
+        int t = countSquaresHelper(matrix , i+1 , j+1);
+
+        ans = 1 + Math.min(l , Math.min(r,t));
+        dp[i][j] = ans;
+        return dp[i][j];
+    }
+}
