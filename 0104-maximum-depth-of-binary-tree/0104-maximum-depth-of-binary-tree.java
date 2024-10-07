@@ -33,7 +33,7 @@ class Solution {
         int right = solveMaxlen(root.right);
 
         int height = 1 + Math.max(left , right);
-        ans = Math.max(ans , height);
+        // ans = Math.max(ans , height);
 
         return height;
     }  
