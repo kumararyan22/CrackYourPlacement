@@ -23,6 +23,7 @@
 | [0091-decode-ways](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
@@ -170,6 +171,7 @@
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
@@ -246,6 +248,7 @@
 | [0112-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -259,6 +262,7 @@
 | [0112-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## String Matching
@@ -270,4 +274,8 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
