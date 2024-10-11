@@ -172,6 +172,7 @@
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
@@ -188,6 +189,7 @@
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -255,6 +257,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
@@ -272,6 +275,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
