@@ -16,31 +16,31 @@
 class BSTIterator {
      
      Stack<TreeNode> st;
-    public BSTIterator(TreeNode root) {
+    public BSTIterator(TreeNode root) {   
         
-        st = new Stack<>();
-        TreeNode node = root;
+        st = new Stack<>();  //dry run best understanding
+        TreeNode node = root;   //root val store
 
-        while(node != null)
+        while(node != null)  
         {
-            st.push(node);
-            node = node.left;
+            st.push(node);   //push all left node val 
+            node = node.left; 
         }
     }
     
     public int next() {
         
-        TreeNode node = st.pop();
-        int val = node.val;
+        TreeNode node = st.pop();   //stack top val remove
+        int val = node.val;   //then add val
 
-        node = node.right;
+        node = node.right;  //and right towards or all left val add in stack
         while(node != null)
         {
             st.push(node);
             node = node.left;
         }
 
-        return val;
+        return val;  //return val
         
     }
     
