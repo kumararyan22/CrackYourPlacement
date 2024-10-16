@@ -36,7 +36,8 @@ class Solution {
             // If the last two characters in the result are the same as the current character
             if (res.length() >= 2 && res.charAt(res.length() - 1) == currChar && res.charAt(res.length() - 2) == currChar) {
                 // If there's nothing else to use, break out of the loop
-                if (maxHeap.isEmpty()) {
+                if (maxHeap.isEmpty())
+                {
                     break;
                 }
 
@@ -46,19 +47,23 @@ class Solution {
                 next.first--;
 
                 // Put the next character back if it still has more occurrences
-                if (next.first > 0) {
+                if (next.first > 0)
+                {
                     maxHeap.add(next);
                 }
 
                 // Put the current character back to try again later
                 maxHeap.add(curr);
-            } else {
+            } 
+            
+            else {
                 // Append the current character
                 res.append(currChar);
                 currCount--;
 
                 // Put it back in the heap if there are more of this character
-                if (currCount > 0) {
+                if (currCount > 0)
+                {
                     maxHeap.add(new Pair(currCount, currChar));
                 }
             }
