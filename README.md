@@ -52,6 +52,7 @@
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0670-maximum-swap](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0670-maximum-swap](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1304-longest-happy-string) |
