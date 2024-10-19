@@ -49,6 +49,7 @@
 | [0012-integer-to-roman](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
@@ -62,6 +63,7 @@
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0221-maximal-square) |
@@ -269,6 +271,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0101-symmetric-tree) |
@@ -292,6 +295,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0101-symmetric-tree) |
@@ -319,6 +323,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
