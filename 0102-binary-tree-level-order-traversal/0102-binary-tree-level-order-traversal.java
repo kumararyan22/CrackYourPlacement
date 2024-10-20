@@ -28,15 +28,15 @@ class Solution {
          while(!q.isEmpty())
          {
             
-            int count = q.size();
-            List<Integer> level = new ArrayList<>();
+            int count = q.size();   //size find 
+            List<Integer> level = new ArrayList<>();   //level by level store
 
             for(int i=0; i<count; i++)
             {
-                TreeNode x = q.remove();
-                level.add(x.val);
+                TreeNode x = q.remove();   
+                level.add(x.val);   //add level(root)
 
-                if(x.left != null)
+                if(x.left != null)   //left or right both add in queue
                 {
                     q.add(x.left);
                 }
@@ -45,7 +45,7 @@ class Solution {
                     q.add(x.right);
                 }
             }
-            result.add(level);
+            result.add(level);   //last, level add in result list
          }
 
          return result;
