@@ -60,6 +60,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
@@ -87,6 +88,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
@@ -99,6 +101,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -157,6 +160,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Design
@@ -275,6 +279,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
