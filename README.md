@@ -91,6 +91,7 @@
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -193,6 +194,7 @@
 | [0110-balanced-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
@@ -298,6 +300,7 @@
 | [0110-balanced-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
@@ -328,6 +331,7 @@
 | [0110-balanced-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
@@ -366,6 +370,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 ## Iterator
 |  |
