@@ -197,6 +197,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
@@ -222,6 +223,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
@@ -304,6 +306,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
@@ -336,6 +339,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
@@ -376,6 +380,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 ## Iterator
 |  |
