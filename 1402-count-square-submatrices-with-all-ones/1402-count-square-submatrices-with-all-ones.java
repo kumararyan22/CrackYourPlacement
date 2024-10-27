@@ -1,12 +1,12 @@
 class Solution {
 
     int[][] dp = new int[300][300];  // Declare dp array for memoization
+    int ans = 0;
 
     public int countSquares(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
 
-        int ans = 0;
 
         // Compute the result by checking all elements of the matrix
         for (int i = 0; i < m; i++) {
@@ -22,7 +22,8 @@ class Solution {
     }
 
     // Helper function for memoization
-    private int countSquaresHelper(int[][] matrix, int i, int j) {
+    private int countSquaresHelper(int[][] matrix, int i, int j) 
+    {
          
          int m = matrix.length;
          int n = matrix[0].length;
@@ -36,7 +37,6 @@ class Solution {
             return dp[i][j];
         }
 
-        int ans = 0;
         int l = countSquaresHelper(matrix , i , j+1);  //for row
         int r = countSquaresHelper(matrix , i+1 , j);  //for colum
         int t = countSquaresHelper(matrix , i+1 , j+1);  //for diagonal
