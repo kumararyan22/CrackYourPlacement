@@ -14,8 +14,8 @@
  * }
  */
 class Solution {
-    int min = Integer.MAX_VALUE;
-    TreeNode prev = null;
+    int min = Integer.MAX_VALUE;  //global define
+    TreeNode prev = null;  //prev node track the previous node inorder form
 
     public int getMinimumDifference(TreeNode root) {
         
@@ -30,14 +30,14 @@ class Solution {
             return;
         }
 
-        diff(root.left);
+        diff(root.left);   //left visit
 
         if(prev != null)
         {
-            min = Math.min(min , root.val - prev.val);
+            min = Math.min(min , root.val - prev.val);  //min find
         }
-        prev = root;
+        prev = root;  //update prev
 
-        diff(root.right);
+        diff(root.right);   //right visit
     }
 }
