@@ -211,6 +211,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
@@ -324,6 +325,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
@@ -360,6 +362,7 @@
 | [0404-sum-of-left-leaves](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
@@ -384,6 +387,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0538-convert-bst-to-greater-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
