@@ -17,17 +17,17 @@ class Solution {
 
     int sum = 0;
 
-    public TreeNode convertBST(TreeNode root) {
+    public TreeNode convertBST(TreeNode root) {   //same as 1038
         
         if(root == null)
         {
             return root;
         }
 
-        convertBST(root.right);
+        convertBST(root.right);   //just reverse inorder traversal(on BST)
 
         sum += root.val;
-        root.val = sum;
+        root.val = sum;   //update root val
 
         convertBST(root.left);
 
