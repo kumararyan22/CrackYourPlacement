@@ -35,10 +35,10 @@ class Solution {
         while(!q.isEmpty())
         {
             int size = q.size();
-            // if(size == 0)
-            // {
-            //     return root;
-            // }
+            if(size == 0)
+            {
+                return root;
+            }
 
             while(size > 0)
             {
