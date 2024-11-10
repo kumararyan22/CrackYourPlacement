@@ -110,6 +110,7 @@
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
@@ -287,6 +289,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
