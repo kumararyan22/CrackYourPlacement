@@ -13,22 +13,22 @@
  *     }
  * }
  */
- 
- class Pair<K, V> {
-    private final K key;
-    private final V value;
 
-    public Pair(K key, V value) {
-        this.key = key;
-        this.value = value;
+ class Pair<K, V> {
+    private final K Key;
+    private final V Value;
+
+    public Pair(K Key, V Value) {
+        this.Key = Key;
+        this.Value = Value;
     }
 
     public K getKey() {
-        return key;
+        return Key;
     }
 
     public V getValue() {
-        return value;
+        return Value;
     }
 }
 
