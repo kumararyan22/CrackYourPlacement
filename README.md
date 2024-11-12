@@ -224,6 +224,7 @@
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0832-binary-tree-pruning) |
@@ -250,6 +251,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Union Find
@@ -345,6 +347,7 @@
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0832-binary-tree-pruning) |
@@ -385,6 +388,7 @@
 | [0572-subtree-of-another-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0832-binary-tree-pruning) |
