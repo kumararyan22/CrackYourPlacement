@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
+| [0219-contains-duplicate-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -122,6 +124,7 @@
 | [0152-maximum-product-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0289-game-of-life) |
