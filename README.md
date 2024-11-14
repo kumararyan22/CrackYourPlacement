@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0219-contains-duplicate-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
@@ -122,6 +123,7 @@
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -266,6 +268,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
 ## Simulation
