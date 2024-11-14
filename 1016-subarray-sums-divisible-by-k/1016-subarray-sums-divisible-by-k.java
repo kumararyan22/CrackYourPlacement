@@ -23,6 +23,7 @@
 
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
+
         int n = nums.length;
         Map<Integer, Integer> map = new HashMap<>();
         map.put(0, 1);  // To account for the case when a subarray itself is divisible by k
@@ -43,12 +44,15 @@ class Solution {
 
             // If the remainder has been seen before, it means there is a subarray
             // between previous occurrence and current index divisible by k
-            if (map.containsKey(remainder)) {
+            if (map.containsKey(remainder))
+            {
                 count += map.get(remainder);
+                map.put(remainder , map.get(remainder)+1);
             }
-
-            // Increment the frequency of the remainder in the map
-            map.put(remainder, map.getOrDefault(remainder, 0) + 1);
+            else
+            {
+              map.put(remainder, 1);  //otherwise
+            }
         }
 
         return count;
