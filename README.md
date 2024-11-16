@@ -55,6 +55,7 @@
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
