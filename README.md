@@ -13,6 +13,7 @@
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0740-delete-and-earn) |
@@ -112,6 +113,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0496-next-greater-element-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -143,6 +145,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0496-next-greater-element-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0740-delete-and-earn) |
@@ -197,6 +200,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
