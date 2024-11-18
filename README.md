@@ -154,6 +154,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -225,6 +226,7 @@
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0289-game-of-life) |
+| [1036-rotting-oranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Depth-First Search
 |  |
@@ -284,6 +286,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
