@@ -1,5 +1,5 @@
 class Solution {
-    int idx;
+    int idx = 0;
 
     public TreeNode solve(int[] preorder, int[] inorder, int start, int end) {
         if (start > end) {
@@ -22,8 +22,10 @@ class Solution {
         return root;
     }
 
-    public TreeNode buildTree(int[] preorder, int[] inorder) {
-        idx = 0;
-        return solve(preorder, inorder, 0, inorder.length - 1);
+    public TreeNode buildTree(int[] preorder, int[] inorder) 
+    {
+        int n = inorder.length;
+        // idx = 0;
+        return solve(preorder, inorder, 0, n - 1);
     }
 }
