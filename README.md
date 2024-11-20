@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0219-contains-duplicate-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
@@ -133,6 +134,7 @@
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
@@ -315,6 +317,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0954-maximum-sum-circular-subarray) |
@@ -371,6 +374,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -412,6 +416,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0111-minimum-depth-of-binary-tree) |
