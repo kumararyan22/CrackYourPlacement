@@ -21,7 +21,10 @@ class Solution {
             st.pop();
             k--;
         }
-        
+        if(st.isEmpty())
+        {
+            return "0";
+        }
 
         StringBuilder res = new StringBuilder();
         while (!st.isEmpty())
