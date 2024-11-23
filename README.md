@@ -127,6 +127,7 @@
 | [0735-asteroid-collision](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [1666-make-the-string-great](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -170,6 +171,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0954-maximum-sum-circular-subarray) |
+| [0983-validate-stack-sequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1036-rotting-oranges) |
@@ -324,6 +326,7 @@
 | [0289-game-of-life](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
