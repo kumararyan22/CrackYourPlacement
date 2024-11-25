@@ -510,6 +510,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [1765-merge-in-between-linked-lists](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1765-merge-in-between-linked-lists) |
 ## Iterator
 |  |
 | ------- |
