@@ -122,6 +122,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
@@ -383,6 +384,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -507,6 +509,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
+| [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 ## Iterator
 |  |
 | ------- |
@@ -518,5 +521,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
