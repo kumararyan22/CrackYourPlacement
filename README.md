@@ -137,6 +137,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2470-removing-stars-from-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
@@ -233,6 +234,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2227-sum-of-subarray-ranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
+| [2573-remove-nodes-from-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -511,6 +513,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1765-merge-in-between-linked-lists) |
+| [2573-remove-nodes-from-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
 ## Iterator
 |  |
 | ------- |
@@ -524,4 +527,5 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0394-decode-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
