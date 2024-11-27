@@ -388,6 +388,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -514,6 +515,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
