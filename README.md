@@ -23,6 +23,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -183,6 +184,7 @@
 | [1036-rotting-oranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
@@ -201,6 +203,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1304-longest-happy-string) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -212,11 +215,13 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Prefix Sum
 |  |
