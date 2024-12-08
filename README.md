@@ -158,6 +158,7 @@
 | [0045-jump-game-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
@@ -227,6 +228,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
