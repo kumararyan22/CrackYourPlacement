@@ -16,7 +16,7 @@ class Solution {
                 result = mid;
                 end = mid-1;
             }
-            else if(nums[mid] < target)
+            else if(nums[mid] < target) 
             {
                 start = mid + 1;
             }
