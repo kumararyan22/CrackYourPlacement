@@ -80,6 +80,7 @@
 | [0012-integer-to-roman](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
@@ -573,6 +574,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0394-decode-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
