@@ -1,9 +1,8 @@
 
-
-
 class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
-        if (root == null) {
+        if (root == null)
+        {
             return null;
         }
 
@@ -11,12 +10,14 @@ class Solution {
         queue.add(root);
         boolean isOddLevel = false;  // Root is level 0 (even)
 
-        while (!queue.isEmpty()) {
+        while (!queue.isEmpty()) 
+        {
             int size = queue.size();
             List<TreeNode> currentLevel = new ArrayList<>();
 
             // Collect nodes at the current level
-            for (int i = 0; i < size; i++) {
+            for (int i = 0; i < size; i++) 
+            {
                 TreeNode node = queue.poll();
                 currentLevel.add(node);
 
@@ -26,9 +27,11 @@ class Solution {
             }
 
             // Reverse node values at odd levels
-            if (isOddLevel) {
+            if (isOddLevel == true) 
+            {
                 int left = 0, right = currentLevel.size() - 1;
-                while (left < right) {
+                while (left < right) 
+                {
                     int temp = currentLevel.get(left).val;
                     currentLevel.get(left).val = currentLevel.get(right).val;
                     currentLevel.get(right).val = temp;
