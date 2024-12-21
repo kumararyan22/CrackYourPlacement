@@ -167,6 +167,7 @@
 | [0056-merge-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -375,6 +376,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Divide and Conquer
@@ -553,6 +555,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
