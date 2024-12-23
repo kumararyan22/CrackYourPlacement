@@ -57,6 +57,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1666-make-the-string-great](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1666-make-the-string-great) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2580-circular-sentence) |
@@ -124,6 +125,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
@@ -210,6 +212,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -244,6 +247,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -390,6 +394,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Geometry
 |  |
 | ------- |
@@ -398,6 +403,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Combinatorics
 |  |
 | ------- |
