@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
@@ -428,6 +429,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0443-string-compression) |
