@@ -31,6 +31,7 @@ class Solution {
         }
 
          reverse(nums, index+1, n-1);
+         return;
     }
 
 
