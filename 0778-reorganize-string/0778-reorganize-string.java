@@ -9,7 +9,8 @@ public class Solution {
         maxHeap.addAll(freqMap.keySet());
 
         StringBuilder res = new StringBuilder();
-        while (maxHeap.size() >= 2) {
+        while (maxHeap.size() >= 2) 
+        {
             char char1 = maxHeap.poll();
             char char2 = maxHeap.poll();
 
