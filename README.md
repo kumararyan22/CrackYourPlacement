@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
@@ -169,6 +170,7 @@
 | [0055-jump-game](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
@@ -289,6 +291,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0130-surrounded-regions) |
