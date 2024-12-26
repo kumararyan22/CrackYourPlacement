@@ -111,6 +111,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0943-sum-of-subarray-minimums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
@@ -193,6 +194,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0682-baseball-game) |
@@ -568,6 +570,7 @@
 | ------- |
 | [0078-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
