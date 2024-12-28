@@ -56,6 +56,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1666-make-the-string-great) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -73,6 +74,7 @@
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
