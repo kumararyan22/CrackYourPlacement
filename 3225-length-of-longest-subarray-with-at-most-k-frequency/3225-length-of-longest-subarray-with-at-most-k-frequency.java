@@ -15,10 +15,10 @@ class Solution {
         while(i < j && map.getOrDefault(nums[j],0) > k)
         {
             map.put(nums[i], map.get(nums[i]) - 1);
-            if(map.get(nums[i]) == 0)
-            {
-                map.remove(nums[i]);
-            }
+            // if(map.get(nums[i]) == 0)
+            // {
+            //     map.remove(nums[i]);
+            // }
             i++;
         }
 
