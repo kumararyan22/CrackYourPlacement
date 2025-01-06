@@ -1,7 +1,7 @@
 class Solution {
     public void nextPermutation(int[] nums) {
         
-        int n=nums.length;
+        int n=nums.length;    //very simple code dry run line by line and understand in gfg
         int index = -1;
 
         for(int i=n-1; i>=1; i--)
