@@ -20,7 +20,7 @@ class Solution {
                 max = Math.max(max , j-i+1);
                 j++;
             }
-             else if(mp.size() < j-i+1)
+            else if(mp.size() < j-i+1)
              {
                 while(mp.size() < j-i+1)
                 {
