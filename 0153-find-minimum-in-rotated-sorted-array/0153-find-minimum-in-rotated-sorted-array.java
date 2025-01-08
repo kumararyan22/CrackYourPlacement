@@ -2,25 +2,31 @@ class Solution {
     public int findMin(int[] nums) {
         int start = 0;
         int end = nums.length - 1;
+        int res = Integer.MAX_VALUE;
 
-        while (start < end) 
+        while (start <= end) 
         {
             int mid = start + (end - start) / 2;
+             
+            if(nums[start] <= nums[end])
+            {
+                res = Math.min(res , nums[start]);
+                break;
+            }
 
-            // If the middle element is greater than the rightmost element, 
-            // the minimum must be in the right half
-            if (nums[mid] > nums[end]) 
+
+            if(nums[start] <= nums[mid])
             {
+                res = Math.min(res , nums[start]);
                 start = mid + 1;
-            } 
-            // Otherwise, the minimum is in the left half, or it could be the mid itself
-            else 
+            }
+            else
             {
-                end = mid;
+                res = Math.min(res , nums[mid]);
+                end = mid - 1;
             }
         }
-        
-        // After the loop, start will point to the minimum element
-        return nums[start];
+
+        return res;
     }
 }
