@@ -185,6 +185,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -439,6 +440,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
