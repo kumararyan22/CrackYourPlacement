@@ -208,6 +208,7 @@
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
@@ -446,6 +447,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
