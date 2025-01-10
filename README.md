@@ -231,6 +231,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
@@ -456,6 +457,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Rolling Hash
 |  |
