@@ -23,6 +23,7 @@
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0952-word-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -55,6 +56,7 @@
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0952-word-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1304-longest-happy-string) |
@@ -218,6 +220,7 @@
 | [0740-delete-and-earn](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [0952-word-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-validate-stack-sequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
