@@ -32,6 +32,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [2580-circular-sentence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
