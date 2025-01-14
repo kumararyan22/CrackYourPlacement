@@ -31,6 +31,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -248,6 +249,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -427,6 +429,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
