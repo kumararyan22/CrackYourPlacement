@@ -248,6 +248,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2102-find-the-middle-index-in-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2102-find-the-middle-index-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
@@ -314,6 +315,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2102-find-the-middle-index-in-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2102-find-the-middle-index-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
