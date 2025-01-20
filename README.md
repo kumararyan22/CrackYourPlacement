@@ -443,6 +443,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
