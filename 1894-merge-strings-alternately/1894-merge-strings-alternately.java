@@ -8,35 +8,35 @@ class Solution {
 
         boolean toggle = true;
 
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
 
         while(i < n1 && j < n2)
         {
             if(toggle == true)
             {
-                ans += word1.charAt(i);
+                ans.append(word1.charAt(i));
                 i++;
             }
             else
             {
-                ans += word2.charAt(j);
+                ans.append(word2.charAt(j));
                 j++;
             }
-            
+
             toggle = !toggle;
         }
 
         while(i < n1)
         {
-            ans += word1.charAt(i);
+            ans.append(word1.charAt(i));
             i++;
         }
         while(j < n2)
         {
-            ans += word2.charAt(j);
+            ans.append(word2.charAt(j));
             j++;
         }
 
-        return ans;
+        return ans.toString();
     }
 }
