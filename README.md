@@ -97,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0013-roman-to-integer) |
@@ -642,6 +643,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -662,6 +664,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
