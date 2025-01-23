@@ -232,6 +232,7 @@
 | [0724-find-pivot-index](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0740-delete-and-earn) |
+| [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0952-word-subsets) |
@@ -274,6 +275,7 @@
 | [0670-maximum-swap](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1304-longest-happy-string) |
@@ -292,6 +294,7 @@
 | [0229-majority-element-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -513,6 +516,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
