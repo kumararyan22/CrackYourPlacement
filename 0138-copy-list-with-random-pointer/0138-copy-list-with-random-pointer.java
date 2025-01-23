@@ -1,4 +1,3 @@
-
 /*
 // Definition for a Node.
 class Node {
@@ -16,50 +15,55 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        if(head==null)
-    {
-        return null;
-    }
-    //step 1 : create a new node for each node in the original list and interweave them
-    Node current = head;
-    while(current!=null)
-    {
-        Node copy = new Node(current.val);
-        copy.next=current.next;
-        current.next=copy;
-        current=copy.next;
-    }
-   
-   //step2 : set the random pointers for new nodes.
+        
+        if(head == null)
+        {
+            return null;
+        }
 
-   current=head;  //reset current 
-   while(current!=null)
-   {
-    Node copy = current.next;
-    copy.random = (current.random!=null) ? current.random.next : null;
-    current = copy.next;
-   }
+        Node curr = head;
+        while(curr != null)
+        {
+            Node currNext = curr.next;
+            curr.next = new Node(curr.val);
+            curr.next.next = currNext;
 
-   //step 3 : separate the original and copy list
-
-Node original = head;
-Node copyHead = head.next;
-Node copy = copyHead;
-while(original!=null)
-{
-    original.next = copy.next;
-    original=original.next;
-
-    if(original!=null)
-    {
-        copy.next = original.next;
-        copy = copy.next;
-    }
-}
-copy.next=null;
-
-return copyHead;
+            curr = currNext;
+        }
 
 
+
+        curr = head;
+        while(curr != null && curr.next != null)
+        {
+            if(curr.random == null)
+            {
+                curr.next.random = null;
+            }
+            else
+            {
+                curr.next.random = curr.random.next;
+            }
+
+            curr = curr.next.next;
+        }
+
+
+
+
+        Node newhead = head.next;
+        Node newCurr = newhead;
+        curr = head;
+
+        while(curr != null && newCurr != null)
+        {
+            curr.next = (curr.next == null)? null : curr.next.next;
+            newCurr.next = (newCurr.next == null)? null : newCurr.next.next;
+
+            curr = curr.next;
+            newCurr = newCurr.next;
+        }
+
+        return newhead;
     }
 }
