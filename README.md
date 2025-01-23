@@ -131,6 +131,7 @@
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -220,6 +221,7 @@
 | [0289-game-of-life](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0410-split-array-largest-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0494-target-sum) |
@@ -272,6 +274,7 @@
 | [0055-jump-game](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -314,6 +317,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0724-find-pivot-index) |
@@ -488,6 +492,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
