@@ -113,6 +113,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1610-xor-operation-in-an-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1610-xor-operation-in-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -459,6 +460,7 @@
 | [0137-single-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
