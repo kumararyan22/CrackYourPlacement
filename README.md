@@ -472,6 +472,7 @@
 | [0078-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
