@@ -275,6 +275,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -482,6 +483,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Divide and Conquer
 |  |
 | ------- |
