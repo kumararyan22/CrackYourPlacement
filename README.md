@@ -112,6 +112,7 @@
 | [0168-excel-sheet-column-title](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0371-sum-of-two-integers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
@@ -477,6 +478,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1610-xor-operation-in-an-array) |
