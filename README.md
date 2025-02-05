@@ -30,6 +30,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -71,6 +72,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -328,6 +330,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
