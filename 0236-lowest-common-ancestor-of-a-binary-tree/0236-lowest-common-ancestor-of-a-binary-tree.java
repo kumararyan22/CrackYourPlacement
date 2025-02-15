@@ -1,4 +1,3 @@
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -10,7 +9,6 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-       
         if(root == null || root == p || root == q) 
             return root;
         
@@ -30,7 +28,6 @@ class Solution {
         {
             return root;
         }
-       
        
     }
 }
