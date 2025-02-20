@@ -63,7 +63,7 @@ class Solution {
 
     public boolean isValidBST(TreeNode root) {
     
-        return Check(root , Long.MIN_VALUE , Long.MAX_VALUE);
+        return Check(root , Long.MIN_VALUE , Long.MAX_VALUE);  //min and max between value check
     }
 
     public boolean Check(TreeNode root , long min , long max)
@@ -73,18 +73,15 @@ class Solution {
             return true;
         }
 
-        if(root.val <= min || root.val >= max)
+        if(root.val <= min || root.val >= max)  //if root value less than min value it means it is out of bound value , same greater than
         {
             return false;
         }
 
-        boolean leftside = Check(root.left , min , root.val);
-        boolean rightside = Check(root.right , root.val , max);
+        boolean leftside = Check(root.left , min , root.val);   //min , max(parent.val)
+        boolean rightside = Check(root.right , root.val , max);  //min(parent.val) , max
 
-        return (leftside && rightside);
+        return (leftside && rightside);   //both true so return true otherwise false
 
-
-        
-        
     }
 }
