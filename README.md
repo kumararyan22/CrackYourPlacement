@@ -199,6 +199,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0056-merge-intervals) |
@@ -308,6 +309,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -699,6 +701,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
