@@ -425,6 +425,7 @@
 | [0975-range-sum-of-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -618,6 +619,7 @@
 | [0975-range-sum-of-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -667,6 +669,7 @@
 | [0975-range-sum-of-bst](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String Matching
