@@ -6,21 +6,21 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int l=0;
-        int r=0;
+        int i=0;
+        int j=0;
         int count = 0;
 
-        while(l < n1 && r < n2)
+        while(i < n1 && j < n2)
         {
-            if(g[l] <= s[r])
+            if(g[i] <= s[j])
             {
                count++;
-               l++;
-               r++;
+               i++;
+               j++;
             }
-            else if(g[l] > s[r])
+            else if(g[i] > s[j])
             {
-                r++;
+                j++;
             }
         }
 
