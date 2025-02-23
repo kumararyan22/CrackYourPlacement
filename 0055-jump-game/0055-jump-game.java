@@ -1,21 +1,19 @@
 class Solution {
     public boolean canJump(int[] nums) {
-
-        int currentIdx = nums.length-1;
-
-        for(int i=currentIdx; i>=0; i--)
-        {
-            if(nums[i]+i >= currentIdx)
-            {
-                currentIdx = i;     //dry run best 
-            }
-        }
-        if(currentIdx == 0)
-        {
-            return true;
-        }
-
-        return false;
         
+        int n = nums.length;
+        int max_idx = 0;
+
+        for(int i=0; i<n; i++)
+        {
+            if(i > max_idx)
+            {
+                return false;
+            }
+
+            max_idx = Math.max(max_idx , i + nums[i]);
+        }
+
+        return true;
     }
 }
