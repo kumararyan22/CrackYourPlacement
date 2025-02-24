@@ -141,6 +141,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -234,6 +235,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -296,6 +298,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
@@ -319,6 +322,7 @@
 | [0047-permutations-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
