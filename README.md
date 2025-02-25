@@ -171,6 +171,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
@@ -214,6 +215,7 @@
 | [0078-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
