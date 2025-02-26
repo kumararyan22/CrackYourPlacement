@@ -211,6 +211,7 @@
 | [0048-rotate-image](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
