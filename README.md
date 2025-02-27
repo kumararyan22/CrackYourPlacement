@@ -177,6 +177,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -385,6 +386,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 ## Queue
