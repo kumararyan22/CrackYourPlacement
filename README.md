@@ -23,6 +23,7 @@
 | [0740-delete-and-earn](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0952-word-subsets) |
@@ -261,6 +262,7 @@
 | [0724-find-pivot-index](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0740-delete-and-earn) |
+| [0876-hand-of-straights](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -319,6 +321,7 @@
 | [0680-valid-palindrome-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -342,6 +345,7 @@
 | [0455-assign-cookies](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1184-car-pooling) |
