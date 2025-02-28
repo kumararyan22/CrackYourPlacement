@@ -8,9 +8,9 @@ class Solution {
         }
 
         TreeMap<Integer,Integer> tmap = new TreeMap<>();
-        for(int i=0; i<n; i++)
+        for(int card : hand)
         {
-            tmap.put(hand[i] , tmap.getOrDefault(hand[i],0)+1);
+            tmap.put(card , tmap.getOrDefault(card,0)+1);
         }
 
         while(!tmap.isEmpty())
