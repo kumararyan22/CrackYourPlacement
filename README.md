@@ -296,6 +296,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2551-apply-operations-to-an-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
@@ -514,6 +515,7 @@
 | [0983-validate-stack-sequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1184-car-pooling) |
 | [2232-adding-spaces-to-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -616,6 +618,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
