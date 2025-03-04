@@ -542,6 +542,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3394-minimum-array-end](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3394-minimum-array-end) |
 ## Divide and Conquer
 |  |
 | ------- |
