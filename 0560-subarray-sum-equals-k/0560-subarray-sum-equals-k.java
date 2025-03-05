@@ -15,10 +15,10 @@ class Solution {
 
             if(map.containsKey(diff))
             {
-                count += map.get(diff);   //last frequency get and add count variable
+                count += map.get(diff);   //get the last frequency and add count variable
             }
 
-            map.put(sum , map.getOrDefault(sum , 0) + 1);  //otherwise
+            map.put(sum , map.getOrDefault(sum , 0) + 1);  //every iteration add element
          }
 
          return count;
