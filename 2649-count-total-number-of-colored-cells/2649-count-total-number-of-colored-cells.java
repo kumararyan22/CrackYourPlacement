@@ -4,10 +4,10 @@ class Solution {
         int time = 1;
         long cell = 1;
 
-        while(time <= n)
+        while(n > 0)
         {
-            cell += (4*(time-1));
-            time++;
+            cell += (4*(n - 1));
+            n--;
         }
 
         return cell;
