@@ -274,6 +274,7 @@
 | [0890-lemonade-change](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0941-sort-array-by-parity](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0954-maximum-sum-circular-subarray) |
@@ -363,6 +364,7 @@
 | [0778-reorganize-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1184-car-pooling) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -628,6 +630,7 @@
 | [0680-valid-palindrome-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
