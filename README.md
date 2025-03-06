@@ -83,6 +83,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
@@ -302,6 +303,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2102-find-the-middle-index-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -630,6 +632,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
