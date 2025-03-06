@@ -38,6 +38,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3227-find-missing-and-repeated-values](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -128,6 +129,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -313,6 +315,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3227-find-missing-and-repeated-values](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -437,6 +440,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2737-row-with-maximum-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
 | ------- |
