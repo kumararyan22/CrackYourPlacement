@@ -120,6 +120,7 @@
 | [0067-add-binary](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
@@ -247,6 +248,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0228-summary-ranges) |
@@ -812,5 +814,10 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2610-closest-prime-numbers-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
