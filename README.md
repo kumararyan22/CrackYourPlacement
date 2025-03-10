@@ -272,6 +272,7 @@
 | [0455-assign-cookies](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
