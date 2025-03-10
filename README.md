@@ -42,6 +42,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-alternating-groups-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Math
 |  |
 | ------- |
