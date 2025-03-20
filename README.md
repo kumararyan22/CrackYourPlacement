@@ -146,6 +146,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1610-xor-operation-in-an-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2649-count-total-number-of-colored-cells) |
@@ -325,6 +326,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1833-find-the-highest-altitude](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -433,6 +435,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2102-find-the-middle-index-in-array) |
