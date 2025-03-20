@@ -310,6 +310,7 @@
 | [1063-best-sightseeing-pair](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1184-car-pooling](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1184-car-pooling) |
+| [1242-matrix-block-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -426,6 +427,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1184-car-pooling) |
+| [1242-matrix-block-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1242-matrix-block-sum) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -473,6 +475,7 @@
 | [0221-maximal-square](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/kumararyan22/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1036-rotting-oranges) |
+| [1242-matrix-block-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2737-row-with-maximum-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
