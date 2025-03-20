@@ -8,7 +8,10 @@ class Solution {
         for(int i=0; i<n; i++)
         {
             preSum += gain[i];
-            highest = Math.max(highest , preSum);
+            if(highest < preSum)  //peak point find
+            {
+                highest = preSum;
+            }   
         }
 
         return highest;
