@@ -327,6 +327,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1791-richest-customer-wealth](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1791-richest-customer-wealth) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1833-find-the-highest-altitude](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -480,6 +481,7 @@
 | [1036-rotting-oranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1242-matrix-block-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1791-richest-customer-wealth](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1791-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/kumararyan22/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
