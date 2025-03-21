@@ -316,6 +316,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-destination-city](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1547-destination-city) |
@@ -481,6 +482,7 @@
 | [1036-rotting-oranges](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1242-matrix-block-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1791-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -644,6 +646,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Rolling Hash
