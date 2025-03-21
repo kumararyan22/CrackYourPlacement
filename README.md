@@ -325,6 +325,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1677-matrix-diagonal-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1762-furthest-building-you-can-reach](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -483,6 +484,7 @@
 | [1242-matrix-block-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/kumararyan22/CrackYourPlacement/tree/master/1791-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kumararyan22/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
