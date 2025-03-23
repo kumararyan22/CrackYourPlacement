@@ -5,13 +5,13 @@ class Solution {
         int n = colSum.length;
 
         int[][] valid = new int[m][n];
-        for(int i=0; i<m; i++)
-        {
-            for(int j=0; j<n; j++)
-            {
-                valid[i][j] = 0;
-            }
-        }
+        // for(int i=0; i<m; i++)
+        // {
+        //     for(int j=0; j<n; j++)
+        //     {
+        //         valid[i][j] = 0;
+        //     }
+        // }
 
         int i=0;
         int j=0;
