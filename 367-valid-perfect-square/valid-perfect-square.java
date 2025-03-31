@@ -12,7 +12,7 @@ class Solution {
         {
             int mid = low + (high-low)/2;
 
-            if(mid == num/mid && num % mid == 0)
+            if(mid*mid== num && num % mid == 0)
             {
                 return true;
             }
