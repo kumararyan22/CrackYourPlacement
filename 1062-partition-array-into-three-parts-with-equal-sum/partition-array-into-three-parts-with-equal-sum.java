@@ -19,22 +19,22 @@ class Solution {
         int firstIdx = -1;
         int secondIdx = -1;
 
-        for(int i=0; i<n-1; i++)
+        for(int i=0; i<n-1; i++)    //dry run ,it is very simple approach
         {
             currSum += arr[i];
 
-            if(currSum == totalSum/3 && firstIdx == -1)
+            if(currSum == target && firstIdx == -1)   //if one true not check else if part
             {
                 firstIdx = i;
             }
-            else if(currSum == 2 * totalSum/3 && firstIdx != -1)
+            else if(currSum == 2 * target && firstIdx != -1)
             {
-                secondIdx =i;
+                secondIdx = i;
                 break;
             }
         }
 
-        if(firstIdx != -1 && secondIdx != -1)
+        if(firstIdx != -1 && secondIdx != -1)   //it means both index are find whose divide the array 3- perts
         {
             return true;
         }
