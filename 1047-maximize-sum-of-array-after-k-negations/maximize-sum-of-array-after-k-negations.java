@@ -9,10 +9,9 @@ class Solution {
 
         while(k > 0)
         {
-             int top = pq.peek();
-             pq.poll();
-             top = -top;
+             int top = pq.poll();
 
+             top = -top;
              pq.add(top);
 
              k--;
