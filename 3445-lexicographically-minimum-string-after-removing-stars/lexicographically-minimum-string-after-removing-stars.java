@@ -29,7 +29,6 @@ class Solution {
                 if (!pq.isEmpty()) {
                     Pair p = pq.poll();         // remove the best candidate
                     str[p.i] = '*';          // mark for deletion
-                    str[i] = '*';            // also mark the '*'
                 }
             }
         }
