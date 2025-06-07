@@ -19,7 +19,7 @@ class Solution {
             st.push(c);
         }
 
-        while(k > 0 && !st.isEmpty())
+        while(k > 0)
         {
             st.pop();
             k--;
@@ -35,7 +35,7 @@ class Solution {
 
         while (res.length() > 0 && res.charAt(0) == '0') 
         {
-          res.deleteCharAt(0); 
+           res.deleteCharAt(0); 
         }
 
         return res.length() == 0 ? "0" : res.toString();
