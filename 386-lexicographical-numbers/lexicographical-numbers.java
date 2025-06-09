@@ -1,19 +1,36 @@
 class Solution {
     public List<Integer> lexicalOrder(int n) {
-        List<String> temp = new ArrayList<>();
-        for (int i = 1; i <= n; i++)
-        {
-            temp.add(String.valueOf(i));
-        }
-
-        Collections.sort(temp);
+        
+        //brute force already summited , this is optimize approach
 
         List<Integer> result = new ArrayList<>();
-        for (String s : temp) 
+        
+        for(int startNum=1; startNum <= 9; startNum++)
         {
-            result.add(Integer.parseInt(s));
+            solve(startNum , n, result);
         }
 
         return result;
+        
+    }
+
+    public void solve(int currNum, int n, List<Integer> result)
+    {
+        if(currNum > n)
+        {
+            return;
+        }
+
+        result.add(currNum);
+        for(int append=0; append<=9; append++)
+        {
+           int newNum = currNum * 10 + append;
+           if(newNum > n)
+           {
+             return;
+           }
+
+           solve(newNum , n , result);
+        }
     }
 }
