@@ -7,7 +7,7 @@ class Solution {
             map.put(ch , map.getOrDefault(ch,0)+1);
         }
 
-        int maxOdd=-1;
+        int maxOdd=Integer.MIN_VALUE;
         int minEven=Integer.MAX_VALUE;
 
         for(int freq : map.values())
@@ -22,7 +22,7 @@ class Solution {
             }
         }
 
-        if((maxOdd == -1) || (minEven==Integer.MAX_VALUE))
+        if(maxOdd == -1 || minEven==Integer.MAX_VALUE)
         {
             return -1;
         }
