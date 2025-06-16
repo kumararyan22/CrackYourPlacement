@@ -25,9 +25,10 @@ class Solution {
 
         for(int i=0; i<n-1; i++)
         {
-            if(nums[i] < nums[i+1])
+            min = Math.min(min , nums[i]);
+
+            if(min < nums[i+1])
             {
-                min = Math.min(min , nums[i]);
                 max = Math.max(max , nums[i+1]-min);
             }
         }
