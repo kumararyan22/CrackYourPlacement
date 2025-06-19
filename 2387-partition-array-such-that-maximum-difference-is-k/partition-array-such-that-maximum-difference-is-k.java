@@ -1,7 +1,7 @@
 class Solution {
     public int partitionArray(int[] nums, int k) {
         
-        int n = nums.length;
+        int n = nums.length;   //very simple, solved it yourself
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
 
@@ -17,12 +17,9 @@ class Solution {
            {
             count++;
             min = nums[i];
-            // max = nums[i];
+            max = nums[i];
            }
-           else
-           {
-            continue;
-           }
+          
         }
 
         return count;
