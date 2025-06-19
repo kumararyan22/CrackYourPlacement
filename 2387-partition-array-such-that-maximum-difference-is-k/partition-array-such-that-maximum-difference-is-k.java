@@ -17,7 +17,7 @@ class Solution {
            {
             count++;
             min = nums[i];
-            max = nums[i];
+            // max = nums[i];
            }
            else
            {
