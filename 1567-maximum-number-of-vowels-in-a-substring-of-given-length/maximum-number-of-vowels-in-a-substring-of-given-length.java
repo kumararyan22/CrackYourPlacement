@@ -21,7 +21,7 @@ class Solution {
                 count++;
             }
 
-            while(j-i+1 > k && i<j) 
+            while(j-i+1 > k && i<n) 
             {
                 if(set.contains(s.charAt(i)))
                 {
