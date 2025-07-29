@@ -60,10 +60,6 @@ class Solution {
 
     public ListNode midPrevFind(ListNode head)
     {
-        if(head == null)
-        {
-            return null;
-        }
         ListNode slow=head;
         ListNode fast=head;
         ListNode prev=null;
