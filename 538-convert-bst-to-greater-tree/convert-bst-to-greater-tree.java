@@ -30,13 +30,13 @@ class Solution {
         {
             return null;
         }
-
-       root.right =  greaterBST(root.right);
+        
+        greaterBST(root.right);
 
         sum += root.val;
         root.val = sum;
 
-        root.left = greaterBST(root.left);
+        greaterBST(root.left);
 
         return root;
 
