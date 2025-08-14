@@ -1,31 +1,34 @@
 class Solution {
     public String largestGoodInteger(String num) {
         
-      
-       if(num == null || num.length() < 3)
-       {
-        return "";
-       }
+         String s ="";
+         
+         for(int i=0; i<=num.length()-3; i++)
+         {
+            int count=0;
+            String curr="";
+            for(int j=i; j<num.length(); j++)
+            {
+                if(num.charAt(i) == num.charAt(j))
+                {
+                    count++;
 
-       String s = "";
-    
-       for(int i=0; i<=num.length()-3; i++)
-       {
-        char first = num.charAt(i);
-        char second= num.charAt(i+1);
-        char third = num.charAt(i+2);
+                    if(count == 3)
+                    {
+                        curr = String.valueOf(num.charAt(i)).repeat(3);
+                    }
+                }
+                else
+                {
+                    count =0;
+                }
+            }
+            if(curr.compareTo(s) > 0)
+            {
+                s = curr;
+            }
+         }
 
-       if(first == second && second == third)
-       {
-        String current = "" + first + second + third;
-        
-        if(current.compareTo(s) > 0)
-        {
-            s = current;
-        }
-       }
-       }
-
-       return s;
+         return s;
     }
 }
