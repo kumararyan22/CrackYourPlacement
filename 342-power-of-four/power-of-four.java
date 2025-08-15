@@ -5,32 +5,8 @@ class Solution {
         {
             return true;
         }
-         
-        // if(n > 1 && n < 16)
-        // {
-        //     return false;
-        // }
 
-        // int count=0;
-
-        // while(n > 0)
-        // {
-        //     if((n & 1) == 1)
-        //     {
-        //         count++;
-        //     }
-
-        //     n = n >> 1;
-        // }
-
-        // if(count % 2 != 0)
-        // {
-        //     return true;
-        // }
-
-        // return false;
-
-        long num = 4;
+        long num = 1;
 
         while(n > num)
         {
