@@ -6,10 +6,10 @@ class MyHashMap {
     
     public void put(int key, int value) {
 
-        if(map.containsKey(key))
-        {
-            map.put(key, value);
-        }
+        // if(map.containsKey(key))
+        // {
+        //     map.put(key, value);
+        // }
         map.put(key,value);
     }
     
