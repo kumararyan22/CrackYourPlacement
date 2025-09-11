@@ -38,10 +38,6 @@ class Solution {
                 ch1[i] = ch2[idx];
                 idx++;
             }
-            else
-            {
-                continue;
-            }
         }
 
     
